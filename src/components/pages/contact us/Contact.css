@@ -1,0 +1,22 @@
+.contact {
+    margin-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: greenyellow;
+    background-color: rgb(126, 67, 67);
+}
+
+.contact-p {
+    color: rgb(8, 8, 10);
+    margin-top: 25px;
+    background-color: rgb(230, 205, 172);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    font-weight: 450;
+}
+
+.center-contact {
+    text-align: center;
+}

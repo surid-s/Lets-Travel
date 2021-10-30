@@ -1,0 +1,11 @@
+.about {
+    color: tomato;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-p {
+    color: blueviolet;
+    font-weight: 500;
+}
