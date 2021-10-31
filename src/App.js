@@ -9,13 +9,14 @@ import PrivateRoute from "./components/PrivateRoute/PrivateRoute"
 import Contact from "./components/pages/contact us/Contact"
 import Login from "./components/pages/Login&signup/Login"
 import Header from "./components/pages/header/Header"
-import ServicesPage from "./components/pages/services/ServicesPage"
+// import ServicesPage from "./components/pages/services/ServicesPage"
 import Footer from "./components/pages/footer/Footer"
 import Singup from "./components/pages/Login&signup/Singup"
 import AuthProvider from "./context/AuthProvider"
 import Booking from "./components/pages/Booking/Booking"
 import Instruments from "./components/Instruments/Instruments"
 import AddTours from "./components/AddTours/AddTours"
+import Service from "./components/pages/services/service/Service"
 
 function App() {
   return (
@@ -38,7 +39,7 @@ function App() {
             </Route>
 
             <Route path="/services">
-              <ServicesPage></ServicesPage>
+              <Service></Service>
             </Route>
             <PrivateRoute path="/instru">
               <Instruments></Instruments>

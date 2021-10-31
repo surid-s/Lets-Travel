@@ -1,7 +1,7 @@
-# Free Coding Academy
+# Let's Travel
 
 This project is created with react. <br/>
-Live link [Free Coding Academy](https://surid-react-assignment-2-router.netlify.app/).
+Live link [World Tour](https://travellers-c13f3.web.app/).
 
 ![Project Image](https://c4.wallpaperflare.com/wallpaper/111/745/193/reactjs-javascript-programming-programming-language-hd-wallpaper-preview.jpg)
 
